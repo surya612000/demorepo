@@ -82,8 +82,9 @@
         nav ul li a {
             text-decoration: none;
             color: var(--dark);
-            font-weight: 500;
+            
             transition: color 0.3s;
+            font-weight: 500;
             display: flex;
             align-items: center;
         }
